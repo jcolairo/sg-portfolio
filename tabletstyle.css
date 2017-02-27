@@ -1,0 +1,5 @@
+@media only screen and (max-width: 768px) {
+  .overall .btn-primary {
+    margin: 5px;
+  }
+}

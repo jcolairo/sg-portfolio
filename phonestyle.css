@@ -1,0 +1,46 @@
+@media only screen and (max-width: 375px) {
+  section {
+    margin: auto;
+  }
+  body {
+    margin: 2px;
+    margin-right: 0px;
+    padding: 0px;
+    width: 350px;
+    font-size: 75%;
+  }
+  .employment {
+    width: 350px;
+  }
+  .academic-achievments {
+    width: 350px;
+  }
+  .engineering-achievments {
+    width: 350px;
+  }
+  .overall {
+    display: none;
+  }
+  .dropdown {
+    display: block;
+    padding: 5px;
+  }
+  .dropdown-toggle {
+    color: #0275d8;
+    background-color: white;
+    border: 1px solid #0275d8;
+    padding: .5rem 1rem;
+  }
+  .modal-content {
+    width: 350px;
+  }
+  .other-skills {
+    width: 350px;
+  }
+  .academic-achievments img {
+    display: none;
+  }
+  .voluntary-experience img {
+    display: none;
+  }
+}
